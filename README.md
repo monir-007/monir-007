@@ -7,6 +7,6 @@
 
 </div>
 <div align="center">
-  ### Thanks For Visiting My Profile.
+<strong>Thanks For Visiting My Profile.</strong>
  </div>
 
