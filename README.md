@@ -7,17 +7,17 @@
 </div>
 
 
-# [Your Full Name]
+# Md Monir Hossain
 
 ## About Me
-Hi there! 👋 I'm a passionate software developer with [X] years of experience in the industry. My journey in the world of coding began with a love for [specific technology/language], and since then, I've been on a constant learning curve.
+Hi there! 👋 I'm a passionate software developer with 4 years of experience in the industry. My journey in the world of coding began with a love for [specific technology/language], and since then, I've been on a constant learning curve.
 
 ## Skills
-- Programming Languages: [List of languages you are proficient in, e.g., Python, JavaScript, Java]
-- Web Development: [Frameworks, libraries, and tools you're familiar with, e.g., React, Angular, Node.js]
-- Database Management: [Databases you're experienced with, e.g., MongoDB, SQL]
-- Version Control: Git, GitHub, GitLab
-- Other: [Any additional skills or technologies worth mentioning]
+- Programming Languages: Python, JavaScript, PHP
+- Web Development: Laravel, Django REST, Angular, Next.js, React, Node.Js
+- Database Management: MySQL, PostgreSQL, pgAdmin, MongoDB, SQL
+- Version Control: Git, GitHub, GitLab, 
+- Other: Docker, [AWS-beginner]
 
 ## Current Focus
 I'm currently diving deep into [specific technology or project], aiming to [your goals or objectives]. My passion lies in [mention any particular area of interest or specialization].
@@ -29,22 +29,10 @@ Here are a few projects I'm proud of:
 3. ...
 
 ## Contact
-- LinkedIn: [Your LinkedIn profile]
-- GitHub: [Your GitHub profile]
-- Twitter: [Your Twitter handle]
-- Email: [Your email address]
+- LinkedIn: https://www.linkedin.com/in/mdmonir-hossain/
+- Email: monirhossain.nsu@gmail.com
 
 Feel free to reach out if you share similar interests or have exciting collaboration opportunities!
-
-
-
-
-
-
-
-
-
-### About Monir
 
 <div align="center">
 
@@ -55,6 +43,5 @@ Feel free to reach out if you share similar interests or have exciting collabora
 
 ### Follow Me
 
-[![Facebook](https://github.com/monir-007/online-images/blob/master/images/icons8-facebook.svg)](https://www.facebook.com/monir.wahid1/) 
 [![Instagram](https://github.com/monir-007/online-images/blob/master/images/icons8-instagram.svg)](https://www.instagram.com/monir__007) 
 [![LinkedIn](https://github.com/monir-007/online-images/blob/master/images/icons8-linkedin.svg)](www.linkedin.com/in/mdmonir-hossain)
