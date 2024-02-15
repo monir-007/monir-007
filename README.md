@@ -1,11 +1,7 @@
 ### Hi there 👋 
-
 <div align="center">
-  
 <strong>Thanks For Visiting My Profile</strong>
-  
 </div>
-
 
 # Md Monir Hossain
 
@@ -14,10 +10,10 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 
 ## Skills
 - Programming Languages: Python, JavaScript, PHP
-- Web Development: Laravel, Django REST, Angular, Next.js, React, Node.Js
+- Web Development: Laravel, Django REST, Angular, Next.js, React, Node.js
 - Database Management: MySQL, PostgreSQL, pgAdmin, MongoDB, SQL
 - Version Control: Git, GitHub, GitLab, 
-- Other: Docker, [AWS-beginner]
+- Other: Linux, Docker, [AWS-beginner]
 
 ## Current Focus
 I'm currently diving deep into [specific technology or project], aiming to [your goals or objectives]. My passion lies in [mention any particular area of interest or specialization].
@@ -39,7 +35,6 @@ Feel free to reach out if you share similar interests or have exciting collabora
 ![Under construction](https://github.com/monir-007/online-images/blob/master/images/user.gif)
 
 </div>
-
 
 ### Follow Me
 
