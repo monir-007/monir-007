@@ -17,10 +17,10 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 - Other: Linux, Docker, [AWS-beginner]
 
 ## Current Focus
-🌐 Sharpening skills in Django Rest Framework for robust e-commerce APIs. Aspiring backend developer dedicated to optimizing the functionality of e-commerce platforms. Venturing into DevOps for scalable and streamlined solutions.
+🌐 Sharpening skills in Django Rest Framework for robust e-commerce APIs. Venturing into DevOps for scalable and streamlined solutions. Crafting a dynamic microservices ecosystem for next-level scalability and flexibility in my e-commerce ventures. 
 
 ## Projects
-Here are a few projects I'm proud of:
+🚀✨ Here are a few projects I'm proud of:
 
 1. **Integrated HRM and Accounting System**
    - Developed a unified solution for a company's internal processes, seamlessly integrating Human Resource Management (HRM) and Accounting functionalities. The system facilitated employee management, attendance tracking, expense management, and financial reporting, enhancing operational efficiency for the organization.
