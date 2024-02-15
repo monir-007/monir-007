@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 <div align="center">
   <strong>Thanks For Visiting My Profile</strong>
 </div>
