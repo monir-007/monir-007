@@ -11,31 +11,32 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 
 ## Skills
 - Programming Languages: Python, JavaScript, PHP
-- Web Development: Laravel, Django REST, Angular, Next.js, React, Node.js
+- Web Development: Laravel, Django REST, Angular, Next.js, React, Node.js, TypeScript
 - Database Management: MySQL, PostgreSQL, pgAdmin, MongoDB, SQL
 - Version Control: Git, GitHub, GitLab
 - Other: Linux, Docker, [AWS-beginner]
 
 ## Current Focus
-I'm currently diving deep into enhancing my skills in [specific technology or project], aiming to [your goals or objectives]. My passion lies in [mention any particular area of interest or specialization].
+🌐 Sharpening skills in Django Rest Framework for robust e-commerce APIs. Aspiring backend developer dedicated to optimizing the functionality of e-commerce platforms. Venturing into DevOps for scalable and streamlined solutions.
 
 ## Projects
 Here are a few projects I'm proud of:
 
 1. **Accounting Management System**
-   - [Brief description and link (if available)]
+   - Developed a comprehensive accounting solution with features such as ledger management, expense tracking, and financial reporting. [Link to project]
 
 2. **Human Resource Management System**
-   - [Brief description and link (if available)]
+   - Designed and implemented an HR management system, including employee profiles, attendance tracking, and performance evaluation modules. [Link to project]
 
 3. **Inventory Management**
-   - [Brief description and link (if available)]
+   - Created an efficient inventory management system to streamline stock tracking, order processing, and real-time inventory updates. [Link to project]
 
 4. **Social Media Platform**
-   - [Brief description and link (if available)]
+   - Contributed to the development of a social media platform, focusing on user engagement features, content sharing, and real-time notifications. [Link to project]
 
 5. **Purity Islamic Content App Backend**
-   - [Brief description and link (if available)]
+   - Built the backend for a content app dedicated to Islamic teachings, emphasizing secure user authentication, content delivery, and API optimization. [Link to project]
+
 
 ## Contact
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mdmonir-hossain/)
