@@ -22,20 +22,22 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 ## Projects
 Here are a few projects I'm proud of:
 
-1. **Accounting Management System**
-   - Developed a comprehensive accounting solution with features such as ledger management, expense tracking, and financial reporting. [Link to project]
+1. **Integrated HRM and Accounting System**
+   - Developed a unified solution for a company's internal processes, seamlessly integrating Human Resource Management (HRM) and Accounting functionalities. The system facilitated employee management, attendance tracking, expense management, and financial reporting, enhancing operational efficiency for the organization.
+   - [Link to project]
 
-2. **Human Resource Management System**
-   - Designed and implemented an HR management system, including employee profiles, attendance tracking, and performance evaluation modules. [Link to project]
+2. **Inventory Management**
+   - Created an efficient inventory management system to streamline stock tracking, order processing, and real-time inventory updates.
+   - [Link to project]
 
-3. **Inventory Management**
-   - Created an efficient inventory management system to streamline stock tracking, order processing, and real-time inventory updates. [Link to project]
+3. **Social Media Platform**
+   - Contributed to the development of a social media platform, focusing on user engagement features, content sharing, and real-time notifications.
+   - [Link to project]
 
-4. **Social Media Platform**
-   - Contributed to the development of a social media platform, focusing on user engagement features, content sharing, and real-time notifications. [Link to project]
+4. **Purity Islamic Content App Backend**
+   - Built the backend for a content app dedicated to Islamic teachings, emphasizing secure user authentication, content delivery, and API optimization.
+   - [Link to project]
 
-5. **Purity Islamic Content App Backend**
-   - Built the backend for a content app dedicated to Islamic teachings, emphasizing secure user authentication, content delivery, and API optimization. [Link to project]
 
 
 ## Contact
