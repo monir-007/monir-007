@@ -24,20 +24,19 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 
 1. **Integrated HRM and Accounting System**
    - Developed a unified solution for a company's internal processes, seamlessly integrating Human Resource Management (HRM) and Accounting functionalities. The system facilitated employee management, attendance tracking, expense management, and financial reporting, enhancing operational efficiency for the organization.
-   - [Link to project]
+   - [#]
 
 2. **Inventory Management**
    - Created an efficient inventory management system to streamline stock tracking, order processing, and real-time inventory updates.
-   - [Link to project]
+   - [#]
 
 3. **Social Media Platform**
    - Contributed to the development of a social media platform, focusing on user engagement features, content sharing, and real-time notifications.
-   - [Link to project]
+   - [#]
 
 4. **Purity Islamic Content App Backend**
    - Built the backend for a content app dedicated to Islamic teachings, emphasizing secure user authentication, content delivery, and API optimization.
-   - [Link to project]
-
+   - [#]
 
 
 ## Contact
@@ -47,6 +46,10 @@ Hi there! 👋 I'm a passionate software developer with 4 years of experience in
 Feel free to reach out if you share similar interests or have exciting collaboration opportunities!
 
 <div align="center">
+
+![Under construction](https://github-readme-stats.vercel.app/api/top-langs?username=monir-007&show_icons=true&locale=en&layout=compact)
+
+<br>
 
 ![Under construction](https://github.com/monir-007/online-images/blob/master/images/user.gif)
 
